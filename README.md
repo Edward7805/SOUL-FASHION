@@ -34,7 +34,7 @@ La cultura organizacional de **Soul Fashion** se basa en:
 **Soul Fashion** se caracteriza por un branding visual elegante y sofisticado:
 
 - **Logotipo**: Un diseño elegante y moderno que refleja el espíritu de aventura y sofisticación. Puede incluir un ícono relacionado con el viaje o algo que evoque "alma", como un corazón estilizado o una brújula.
-- ![Descripción de la imagen](https://raw.githubusercontent.com/Edward7805/SOUL-FASHION/refs/heads/main/CATALOGO%20SOUL%20FASHION.jpg)
+  [Descripción de la imagen](https://raw.githubusercontent.com/Edward7805/SOUL-FASHION/refs/heads/main/LOGO%20SOUL%20FASHION.jpg)
 
 - **Paleta de colores**: Colores que evocan naturaleza y elegancia, como tonos tierra (beige, marrón), verdes suaves, azules profundos y dorados o plateados para detalles.
 - **Tipografía**: Una tipografía limpia y moderna, combinando un estilo clásico con un toque contemporáneo.
@@ -48,6 +48,7 @@ El contenido para redes sociales debe ser visualmente atractivo, auténtico y al
 
 - Publica imágenes de tus billeteras, mochilas y accesorios en escenarios de viaje (en la playa, en un avión, explorando una ciudad).
 - Utiliza fotos de estilo de vida donde se vea cómo los productos se integran al día a día del viajero.
+- ![Descripción de la imagen](https://raw.githubusercontent.com/Edward7805/SOUL-FASHION/refs/heads/main/CATALOGO%20SOUL%20FASHION.jpg)
 
 ### Testimonios de Clientes
 
